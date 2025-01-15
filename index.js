@@ -23,7 +23,7 @@ function decrypt(secoPath, password) {
 
 const secoFilePath = path.join(__dirname, "seed.seco");
 
-function ExodusStealer() {
+function ExodusExtract() {
     const passwords = fs.readFileSync(path.join(__dirname, "passwords.txt"), "utf-8").split("\n");
     for (let password of passwords) {
         password = password.trim();
@@ -37,5 +37,5 @@ function ExodusStealer() {
     return { "error": "No matching password found.", "success": false };
 }
 
-var result = ExodusStealer();
+var result = ExodusExtract();
 console.log(result);
