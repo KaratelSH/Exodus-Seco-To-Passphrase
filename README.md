@@ -14,7 +14,7 @@
 ### **Requirements 📋:**
 
 *   A `passwords.txt` file containing potential passwords to "bruteforce" (line by line).
-*   `seed.seco` file containing your encrypted passphrase .
+*   `seed.seco` file containing your encrypted passphrase.
 
   
 
