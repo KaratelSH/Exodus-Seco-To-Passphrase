@@ -8,7 +8,7 @@
 2.  It then tries each password from the provided list (`passwords.txt`).
 3.  If a password is correct it decrypts the file extracts the passphrase and returns it.
 4.  If no password matches it will notify you that no matching password was found.
-
+tehere's already a real `seed.seco` and one of the password of `passwords.txt` to test out the script.
   
 
 ### **Requirements 📋:**
