@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Exodus Passphrase Extractor 🔑</h1>
 
-<p>This script is designed to <strong>extract the passphrase from your Exodus wallet 💼</strong> by attempting various passwords that you provide. It works by testing each password from a <code>passwords.txt</code> file and if it finds the correct one it decrypts the wallet and retrieves the passphrase.</p>
+<p>This script is designed to <strong>extract the passphrase from your Exodus wallet 💼</strong> by attempting various passwords that you provide. It works by testing each password from a <code>passwords.txt</code> file and if it finds the correct one it decrypts the wallet and retrieves the passphrase.</br></br>This project has been made for fun, do not use it for illegal purposes, i'll make tkinter/gui version soon and build it for AppImage (Debian based) and PE (Windows .exe)</p>
 
 ### **How It Works 🤔:**
 
